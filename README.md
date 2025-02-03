@@ -13,9 +13,9 @@ This is a basic Python-based banking system that allows users to:
 1. Enter your name to create an account.
 3. Choose an option from the menu:
 * 1.) Check balance
-* 2.)Deposit money
-* 3.)Withdraw money (with balance check)
-* 4.)Exit the program
+* 2.) Deposit money
+* 3.) Withdraw money (with balance check)
+* 4.) Exit the program
 
 # Requirements
 * Python 3.x
